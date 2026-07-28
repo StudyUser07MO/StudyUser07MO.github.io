@@ -1,5 +1,4 @@
 title: My Test Blog
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
